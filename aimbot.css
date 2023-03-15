@@ -1,0 +1,43 @@
+body{
+    position: fixed;
+}
+
+.Esspp{
+    position: fixed;
+    width: 500px;
+    left: 450px;
+    color: rgb(207, 36, 36);
+    text-shadow: 0 0 10px  #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.Essspp{
+    position: fixed;
+    width: 500px;
+    left: 460px;
+    top: 450px;
+    color: rgb(207, 36, 36);
+    text-shadow: 0 0 10px  #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.aimbot2{
+    position: fixed;
+    left: 700px;
+    top: 400px;
+}
+
+.Trekking{
+    position: fixed;
+    color: rgb(207, 36, 36);
+    left: 460px;
+    top: 30px;
+    text-shadow: 0 0 10px  #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.Flick{
+    position: fixed;
+    color: rgb(207, 36, 36);
+    left: 460px;
+    top: 220px;
+    text-shadow: 0 0 10px  #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+

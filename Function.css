@@ -1,0 +1,190 @@
+body{
+    position: fixed;
+    background-color: black;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.pre2{
+    color: #ffffff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.img2{
+   
+    position: fixed;
+    width: 6px;
+    left: 380px;
+    top: -5px;
+    height: 1000px;
+}
+
+.img3{
+   
+    position: fixed;
+    width: 380px;
+    left: 1px;
+    top: 145px;
+    height: 5px;
+}
+
+.pre3{
+    position: fixed;
+    color: #ffffff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+    top: 160px;
+    left: 60px;
+
+}
+
+.but2{
+
+    position: fixed;
+    top: 155px;
+    left: 55px;
+    background-color: black;
+    color: #c23421;
+    font-weight: 800;
+    font-size: 10px;
+    
+}
+
+.but2:focus{
+    outline: none;
+}
+
+.but2:hover{
+    padding: 1px 1px;
+    left: 80px;
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.p2{
+    position: fixed;
+    color: aliceblue;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+
+    top: 170px;
+    left: 63px;
+}
+
+.img1{
+   
+    position: fixed;
+    width: 380px;
+    left: 1px;
+    top: 265px;
+    height: 5px;
+}
+
+
+
+.but3{
+
+    position: fixed;
+    top: 270px;
+    left: 20px;
+    background-color: black;
+    color: #c23421;
+    font-weight: 800;
+    font-size: 10px;
+    
+}
+
+.but3:focus{
+    outline: none;
+}
+
+.but3:hover{
+    padding: 1px 1px;
+    left: 40px;
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.p3{
+    position: fixed;
+    color: aliceblue;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+
+    top: 300px;
+    left: 33px;
+}
+
+.hot3{
+    position: fixed;
+    left: 5px;
+    top: 550px;
+     width: 350px;
+}
+
+.img4{
+   
+    position: fixed;
+    width: 380px;
+    left: 1px;
+    top: 395px;
+    height: 5px;
+}
+
+.pre12{
+    font-size: 1px;
+}
+
+.but4{
+    position: fixed;
+    top: 415px;
+    left: 10px;
+    background-color: black;
+    color: #147fd6;
+    font-weight: 800;
+    font-size: 10px;
+    
+}
+
+.but4:focus{
+    outline: none;
+}
+
+.but4:hover{
+    padding: 1px 1px;
+    left: 28px;
+    color: #147fd6;
+    text-shadow: 0 0 10px #147fd6, 0 0 20px #147fd6, 0 0 30px #147fd6, 0 0 40px #147fd6, 0 0 50px #147fd6, 0 0 60px #147fd6, 0 0 70px #fff;
+}
+
+.img11{
+    position: fixed;
+    width: 35px;
+    top: 410px;
+    left: 335px;
+}
+
+.img5{
+   
+    position: fixed;
+    width: 380px;
+    left: 1px;
+    top: 530px;
+    height: 5px;
+}
+
+
+.Esspp11{
+    position: fixed;
+    color: rgb(207, 36, 36);
+    left: 460px;
+    top: 420px;
+    text-shadow: 0 0 10px  #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.Essspp11{
+    position: fixed;
+    color: rgb(207, 36, 36);
+    left: 460px;
+    top: 630px;
+    text-shadow: 0 0 10px  #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}

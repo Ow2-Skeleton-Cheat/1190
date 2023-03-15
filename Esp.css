@@ -1,0 +1,17 @@
+body{
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.EE09{
+     position: fixed;
+     width: 600px;
+     left: 1050px;
+     top: 250px;
+}
+
+
+

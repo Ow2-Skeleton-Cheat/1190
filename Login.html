@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+
+    <meta property="og:title"              content="Ow2. 💀Skeleton💀 Login" />
+    <meta property="og:description"        content="🔥 Overwatch 2 Best Cheat 🔥" />
+    <meta property="og:image"              content="https://cdn.discordapp.com/attachments/1085569169912762478/1085586253854023730/hot2.png" />
+
+    <title>🔥🔥🔥</title>
+    <link rel="stylesheet" href="Login.css">
+    <script>
+        
+        window.addEventListener('devtoolschange', function(event) {
+    if (event.detail.isOpen) {
+        alert('개발자 도구를 사용할 수 없습니다.');
+    }
+});
+
+window.addEventListener('contextmenu', function(event) {
+    event.preventDefault();
+});
+
+document.onkeydown = function(event) {
+    if (event.keyCode == 123 || (event.ctrlKey && event.shiftKey && event.keyCode == 73) || 
+        (event.ctrlKey && event.shiftKey && event.keyCode == 74) || (event.ctrlKey && event.shiftKey && event.keyCode == 75)) {
+        return false;
+        alert("개발자 도구가 열렸습니다.");
+    }
+}
+
+function detectDevTools() {
+    if (window.performance && window.performance.memory) {
+        var memory = window.performance.memory;
+        if (memory.usedJSHeapSize === 0 && memory.totalJSHeapSize === 0 && memory.jsHeapSizeLimit === 0) {
+            alert("F12를 눌러 개발자 도구를 열 수 없습니다.");
+        }
+    }
+}
+
+detectDevTools();
+        </script>
+</head>
+  </head>
+  <body>
+    <button class="center" disabled>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</button>
+
+
+    <form action="main.html">
+      <label class="key" for="password">🔐 Key 🔐 : </label>
+      <input class="pw" type="password" id="password" name="password">
+      <input class="Login1" type="submit" value="--------------------💕-Login-💕--------------------" onclick="checkPassword(event)">
+    </form>
+
+    <script>
+
+
+      function checkPassword(event) {
+        event.preventDefault(); 
+
+        const passwordInput = document.getElementById("password");
+        const passwordValue = passwordInput.value;
+
+        if (passwordValue === "1week-Skeleton99099012") {
+            alert("🟢 Login Complete 🟢");
+
+
+          document.querySelector("form").submit();
+        } else {
+          
+          alert(" 🔥 Non-Existent key. 🔥");
+        }
+      }
+
+
+    </script>
+
+<img class="logo" src="logo.png" alt="">
+<img class="hot2" src="hot2.png" alt="">
+
+  </body>
+</html>

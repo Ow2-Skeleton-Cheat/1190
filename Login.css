@@ -1,0 +1,66 @@
+body{
+    position: fixed;
+    background-color: rgb(0, 0, 0);
+}
+
+.center {
+    position: fixed;
+    background-color: rgb(0, 0, 0);
+    left: 50%;
+    top: 30%;
+    height: 250px;
+    width: 600px;
+    transform: translate(-50%, -50%);
+    border-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.pw{
+    position: fixed;
+    
+    left: 1000px;
+    top: 28%;
+
+    transform: translate(-50%, -50%);
+}
+
+.key{
+    position: fixed;
+    color: aliceblue;
+    left: 850px;
+    top: 27.7%;
+
+    transform: translate(-50%, -50%);
+}
+
+.Login1{
+    position: fixed;
+    
+    left: 930px;
+    top: 35%;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    transform: translate(-50%, -50%);
+    border-color: rgb(0, 0, 0);
+    background-color: aliceblue;
+}
+
+.logo{
+    position: fixed;
+    top: -40px;
+    left: 260px;
+}
+
+.hot2{
+    position: fixed;
+    top: 160px;
+    left: 640px;
+    width: 100px;
+}
+
+
